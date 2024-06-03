@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9013531-c39d-46c5-82ee-81278e445772" name="Changes" comment="" />
+    <list default="true" id="f9013531-c39d-46c5-82ee-81278e445772" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/statisticsTasks/task_2/Point 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/statisticsTasks/task_2/Point 1.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "task2",
     "last_opened_file_path": "C:/Users/Edy Quintero/PythonProjects/statistics",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -56,6 +58,7 @@
       <workItem from="1710176179879" duration="71000" />
       <workItem from="1710176262886" duration="17000" />
       <workItem from="1710885817566" duration="28000" />
+      <workItem from="1713539368831" duration="6000" />
     </task>
     <servers />
   </component>
